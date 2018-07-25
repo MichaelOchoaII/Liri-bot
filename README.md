@@ -1,7 +1,7 @@
 # LIRI-Bot
 A node command line app to retrieve information using the Twitter, Spotify, and OMDB APIs. The information retrieved will be logged to the console
 
-Liri accepts four commands: `spotify-this-song`, `my-tweets`, `movie-this`, and `do-what-it-says`.
+Liri accepts four commands: `spotify-this-song`, `movie-this`, and `do-what-it-says`.
 
 ## spotify-this-song ##
 The `spotify-this-song` command will take any arguments following the command and log the information for the first song from the search results for that title. It will log the artist(s), the name of the track, the URL for a preview on Spotify, and the album. If no arguments are supplied, it will log the information for "The Sign" by Ace of Base.
