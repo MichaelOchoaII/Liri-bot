@@ -1,5 +1,5 @@
 # LIRI-Bot
-A node command line app to retrieve information using the Twitter, Spotify, and OMDB APIs. The information retrieved will be logged to the console as well as a text file `log.txt`
+A node command line app to retrieve information using the Twitter, Spotify, and OMDB APIs. The information retrieved will be logged to the console
 
 Liri accepts four commands: `spotify-this-song`, `my-tweets`, `movie-this`, and `do-what-it-says`.
 
